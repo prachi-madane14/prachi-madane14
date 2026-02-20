@@ -2,8 +2,11 @@
 # 👋 Hi, I'm Prachi Madane
 
 🎓 Computer Engineering Student
+
 💻 MERN Stack Developer
+
 🤖 AI & Data Enthusiast
+
 📍 India
 
 ---
@@ -111,10 +114,5 @@ I am eager to contribute, learn, and grow as an engineer while working on impact
 
 ⭐ *Let’s build something impactful together!*
 
----
 
-If you want, I can now:
-
-* Make a **more modern, visually attractive README (with badges & stats)** 🔥
-* Or create a **GenAI-focused version** if you want to target AI companies.
 
