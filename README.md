@@ -53,43 +53,6 @@ I believe in continuous learning, adaptability, and solving real-world problems 
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 MentHER – Women Mentorship Platform
-
-A full-stack mentorship platform with secure authentication, mentor/mentee dashboards, and session booking.
-
-* Built scalable REST APIs
-* Implemented JWT authentication
-* Designed responsive UI
-
-**Tech:** React, Node.js, Express, MongoDB
-
----
-
-### 🔹 MediLink – Healthcare Management System
-
-A healthcare platform for appointment booking and digital health record management.
-
-* Role-based authentication
-* OCR integration for medical reports
-* Secure doctor/patient dashboards
-
-**Tech:** MERN Stack, Tesseract.js
-
----
-
-### 🔹 BERT-Based Gender-Based Violence Detection
-
-An NLP system to detect harmful content using a fine-tuned BERT model.
-
-* Multilingual sentiment analysis
-* Secure reporting
-* ML model integration
-
-**Tech:** PyTorch, Transformers, Streamlit
-
----
 
 ## 🎯 What I’m Looking For
 
