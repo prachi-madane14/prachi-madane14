@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Prachi Madane
 
-🎓 Computer Engineering Student
+🎓 Computer Engineering Graduate
 
 💻 MERN Stack Developer
 
