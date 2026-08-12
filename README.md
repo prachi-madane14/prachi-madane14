@@ -1,81 +1,114 @@
-
 # 👋 Hi, I'm Prachi Madane
 
-🎓 Computer Engineering Graduate
-
-💻 MERN Stack Developer
-
-🤖 AI & Data Enthusiast
-
-📍 India
+🎓 **Computer Engineering Graduate | 2026**  
+💻 **Full-Stack Developer | MERN Stack**  
+🤖 **AI/ML & Generative AI Enthusiast**  
+📊 **Data Analytics & Visualization**  
+📍 Mumbai, Maharashtra, India
 
 ---
 
 ## 🚀 About Me
 
-I am a Computer Engineering student and MERN stack developer passionate about building scalable web applications and AI-driven solutions.
+I'm a **Computer Engineering graduate** passionate about building practical software solutions across **full-stack development, AI/ML, Generative AI, and data analytics**.
 
-I enjoy turning ideas into real-world products using modern web technologies and data-driven insights. I focus on writing clean, efficient code and building systems that are practical, secure, and scalable.
+I enjoy turning real-world problems into functional, user-focused applications using technologies such as **React.js, Node.js, Express.js, MongoDB, Python, SQL, Power BI, and machine learning frameworks**.
 
-I believe in continuous learning, adaptability, and solving real-world problems through technology.
+My experience includes building **full-stack web applications, REST APIs, AI-powered applications, machine learning systems, and interactive data dashboards**.
+
+I'm a continuous learner who enjoys exploring new technologies, solving problems, and building projects that create meaningful real-world impact.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Full-Stack Development
 
-* **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
-* **Backend:** Node.js, Express.js, REST APIs, JWT
-* **Database:** MongoDB, MySQL
-* **Languages:** JavaScript, TypeScript, Python, SQL
+- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS, JavaScript
+- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
+- **Databases:** MongoDB, MongoDB Atlas, MySQL
+- **Languages:** JavaScript, TypeScript, Python, SQL
 
 ### 🤖 AI / Machine Learning
 
-* PyTorch
-* Transformers (BERT)
-* NLP-based classification
-* Streamlit
+- Generative AI
+- PyTorch
+- Transformers
+- BERT
+- NLP
+- Machine Learning
+- XGBoost
+- Random Forest
+- Scikit-learn
+- Streamlit
 
-### 📊 Data & Analytics
+### 📊 Data Analytics & Visualization
 
-* Python
-* SQL
-* Excel
-* Power BI
+- Python
+- SQL
+- Excel
+- Power BI
+- DAX
+- Data Cleaning
+- Data Transformation
+- Data Validation
+- Data Modeling
+- Dashboard Development
 
 ### ⚙️ Tools & Platforms
 
-* Git & GitHub
-* Postman
-* MongoDB Atlas
-
+- Git & GitHub
+- Postman
+- VS Code
+- Canva
+- MongoDB Atlas
 
 ---
 
+## 📜 Certifications
 
-## 🎯 What I’m Looking For
+- IBM SQL & Relational Databases 101
+- IBM SkillsBuild — Data Analytics
+- Deloitte — Data Analytics Job Simulation
 
-I am currently seeking opportunities in:
+---
 
-* Software Development
-* Full-Stack Development
-* AI/ML Engineering
-* Data-driven roles
+## 🎯 Currently Looking For
 
-I am eager to contribute, learn, and grow as an engineer while working on impactful products.
+I'm actively seeking **full-time opportunities and internships** in:
+
+- 💻 Software Development
+- 🌐 Full-Stack Development
+- ⚙️ Backend Development
+- 🤖 AI/ML Engineering
+- 🧠 Generative AI
+- 📊 Data Analytics / Data Engineering
+
+I'm particularly interested in opportunities where I can **build real-world products, solve challenging problems, learn from experienced engineers, and contribute to impactful projects.**
+
+---
+
+## 📈 What I Bring
+
+✅ Full-stack development experience  
+✅ REST API development & integration  
+✅ AI/ML project experience  
+✅ Data analytics & dashboard development  
+✅ Strong Python, JavaScript & SQL foundation  
+✅ Git/GitHub & API testing  
+✅ Problem-solving mindset  
+✅ Continuous learning & adaptability
 
 ---
 
 ## 📫 Let's Connect
 
-* 📧 Email: [prachimadane2004@gmail.com](mailto:prachimadane2004@gmail.com)
-* 💼 LinkedIn: [www.linkedin.com/in/prachi-madane-37734225b](http://www.linkedin.com/in/prachi-madane-37734225b)
-* 💻 GitHub: github.com/prachi-madane14
+- 📧 **Email:** prachimadane2004@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/prachi-madane-37734225b](https://www.linkedin.com/in/prachi-madane-37734225b/)
+- 💻 **GitHub:** [github.com/prachi-madane14](https://github.com/prachi-madane14)
 
 ---
 
-⭐ *Let’s build something impactful together!*
+⭐ **Thanks for visiting my profile!**
 
-
-
+💡 *I'm always open to learning, collaborating, and building something impactful.*
